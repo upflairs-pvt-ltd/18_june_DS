@@ -31,18 +31,18 @@ student = {"Name":["Mohit","Rohit","Kaloo","Pappu","Baabu"],
 
 print(student)
 # print(type(student))
-1. NAME --> RAJU 
-   MARKS --> 25 
-   last position in this list 
+# 1. NAME --> RAJU 
+#    MARKS --> 25 
+#    last position in this list 
 
 
-2. NAME --> RAJU 
-   MARKS --> 25 
-   first 1 position in this list 
+# 2. NAME --> RAJU 
+#    MARKS --> 25 
+#    first 1 position in this list 
 
 
 
-3. Kaloo  ---> bhoora 
+# 3. Kaloo  ---> bhoora 
 
 
 
